@@ -162,11 +162,11 @@ header .contenedor {
 }
 
 .navbar .navbar-nav .nav-link {
-    margin-right: 75px;
-    padding: 5px 0;
+    margin-right: 55px;
+    padding: 7px 0;
     color: var(--dark);
-    font-size: 18px;
-    font-weight: 500;
+    font-size: 16px;
+    font-weight: 700;
     outline: none;
 }
 
